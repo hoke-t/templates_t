@@ -1,4 +1,4 @@
-# cp-templates
+# templates_t
 Implementations of data structures and algorithms for use in online programming contests
 
 ## Inspiration
